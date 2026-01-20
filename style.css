@@ -878,3 +878,13 @@ section.active {
     align-self: flex-end;
   }
 }
+.logo-area {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo {
+  width: 40px;
+  height: auto;
+}
